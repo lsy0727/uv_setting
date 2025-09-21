@@ -4,11 +4,11 @@
 
 1. Add Python to PATH
 
-add two path
+    add two path
 
-1) C:\Users\<user name>\AppData\Local\Programs\Python\Python<version>\
+* C:\Users\<user name>\AppData\Local\Programs\Python\Python<version>\
 
-2) C:\Users\<user name>\AppData\Local\Programs\Python\Python<version>\Scripts\
+* C:\Users\<user name>\AppData\Local\Programs\Python\Python<version>\Scripts\
 
 * Python is usually installed in the following locations
 
