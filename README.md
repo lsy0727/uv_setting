@@ -4,9 +4,9 @@
 
 1. Add Python to PATH
 
-<img width="1152" height="778" alt="image" src="https://github.com/user-attachments/assets/cbece896-4e08-4742-ae80-db509d09eef3" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/cbece896-4e08-4742-ae80-db509d09eef3" />
 
-<img width="676" height="659" alt="image" src="https://github.com/user-attachments/assets/922f02a1-d739-49af-8316-67e5f74d1cdd" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/922f02a1-d739-49af-8316-67e5f74d1cdd" />
 
 
 
