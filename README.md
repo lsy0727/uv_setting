@@ -1,11 +1,5 @@
 # uv_setting
 
-## Add the Python installation path
-
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/5744c020-eea7-4435-acf5-cdf695a98403" />
-
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/1a81911c-bac8-41d3-aa05-14bcd05dd68c" />
-
 ```
 # Locate the installation path manually and add it to the PATH
 C:\Users\<user name>\AppData\Local\Programs\Python\Python<version>\
